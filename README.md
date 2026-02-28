@@ -11,6 +11,6 @@
 
 <div align="center">
 <strong>Email:</strong> <a href="mailto:danieljobline@gmail.com">danieljobline@gmail.com</a><br>
-<strong>Telegram:</strong> <a href="https://t.me/freejoblead">@freejoblead</a><br>
+<strong>Telegram:</strong> <a href="https://t.me/freejoblead">@danieljoblead</a><br>
 <strong>WhatsApp:</strong> <a href="https://wa.me/15102821318">+1 (510) 282-1318</a>
 </div>
