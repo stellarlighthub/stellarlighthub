@@ -1,4 +1,4 @@
-# <h1 align="center"># Join My Remote Team! 🌍</h1>
+# <h1 align="center">Join My Remote Team! 🌍</h1>
 
 <div align="justify">
 <h3>I am a Team Lead currently expanding my remote team and looking for motivated individuals based in **North America, South America, or Europe** to collaborate with me.</h3>
